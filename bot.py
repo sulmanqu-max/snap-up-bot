@@ -8,7 +8,7 @@ from flask import Flask
 from threading import Thread
 
 # Config & Credentials
-BOT_TOKEN = "8958814735:AAHM3rak6HGGni7X_s2fbGKWhfYDTA6Iqf8"
+BOT_TOKEN = "8791446161:AAEP2mXMsavFFEMqcDtNkl80UpOI-d08RS4"
 OWNER_ID = 8112208075
 PANEL_TOKEN = "ZJ0LfnKMUEN8U1FFRA=="
 BASE_URL = "http://51.75.55.16/ints/agent"
